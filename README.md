@@ -7,3 +7,4 @@ Thus far this repo contains everything from chapter 3 of the Functional Programi
 - Ch3 Pure Functions
 - Ch4 Recursion
 - Ch5 Function Transformations
+- Ch6 Closures
