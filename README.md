@@ -9,3 +9,4 @@ Thus far this repo contains everything from chapter 3 of the Functional Programi
 - Ch5 Function Transformations
 - Ch6 Closures
 - Ch7 Currying
+- Ch8 Decorators
