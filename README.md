@@ -20,3 +20,5 @@ Thus far this repo contains everything from chapter 3 of the Functional Programi
 ## Data Structures and Algoriths:
 
 - Ch1 Algorithms Intro
+- Ch2 Math
+- Ch3 Big "O" Analysis
